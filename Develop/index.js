@@ -13,6 +13,13 @@ const questions = [
         message: 'What is the title of your project?',
       },
 
+// Add more questions for description, installation, usage, etc.
+  // Example:
+  {
+    type: 'input',
+    name: 'description',
+    message: 'Provide a short description of your project:',
+  },
 ];
 
 // TODO: Create a function to write README file
