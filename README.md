@@ -22,38 +22,31 @@ In this application, you will find it with great ease how you can generate your 
 
 ## Features
 
-- **Current Weather:** Get real-time information about temperature, humidity, weather description, and wind speed.
+- **Questions:** There are questions here to help you know what you need to fill in for your README.
 
-- **5-Day Forecast:** Plan ahead with a 5-day forecast organized by day.
-
-- **Search History:** Keep track of past searches for quick reference.
-
-- **Clear History:** Easily clear search history with the click of a button.
+- **Customize:** Planning on having customized descriptions? This app can help you get a perfect README.
 
 
 ## Getting Started
 
-To use Climate Quest Navigator:
+To use ReadMe Generator Package:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/climate-quest-navigator.git
+   git clone https://https://github.com/PotionSela/ReadMe-Generator-Package
+
 2. Open index.html in your preferred web browser.
 
 
 ## Usage
 
-- **Enter** the city name in the search bar.
-- **Click** "Search."
-- **View** current weather and 5-day forecast.
-- **Search history** is displayed on the left. Click "Clear History" to remove all searches.
+1. Configure the settings in the 'config.json' file
+2. Run the application using the command: 'node index.js'
 
 
 ## Built With
-- **HTML**
-- **CSS**
+
 - **JavaScript**
-- **Bootstrap** - Front-end framework
 
 
 ## Contributing
