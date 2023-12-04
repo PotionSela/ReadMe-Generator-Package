@@ -18,6 +18,7 @@ In this application, you will find it with great ease how you can generate your 
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Deployed](#deployed)
 
 
 ## Features
@@ -62,3 +63,7 @@ To run tests, use the command `npm test` in the terminal.
 If you have any questions, feel free to reach out:
 - GitHub Profile: [PotionSela](https://github.com/PotionSela)
 - Email: giselamata27@gmail.com
+
+## Deployed Application
+Here is a link to a video showing you how to properly use this application!
+https://drive.google.com/file/d/1s6gMq8gPD5oHRtUW3_t_hU2Rp_v3zdxt/view
