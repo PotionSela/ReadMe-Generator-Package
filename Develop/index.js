@@ -13,8 +13,6 @@ const questions = [
         message: 'What is the title of your project?',
       },
 
-// Add more questions for description, installation, usage, etc.
-  // Example:
   {
     type: 'input',
     name: 'description',
