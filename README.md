@@ -1,9 +1,9 @@
 # README Generator Package
 This new app to make README files will make your life so much easier! Just with a few clicks and questions answered, and you're on your way to a new generated README file!
 
-![How to create a Professional README]()
+![How to create a Professional README](./Develop/images/README-file-gen.png)
 
-![Climate Quest screenshot](./Assets/Images/Climate-Quest-Nav-img.png)
+![Example README](./Develop/images/README-file-gen2.png)
 
 
 ## Introduction
