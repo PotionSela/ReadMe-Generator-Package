@@ -44,10 +44,21 @@ To use ReadMe Generator Package:
 2. Run the application using the command: 'node index.js'
 
 
-## Built With
+## License
+This project is licensed under the MIT license. [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+
+## Built With
 - **JavaScript**
 
 
 ## Contributing
 Contributions are welcome! If you find a bug or have a feature request, please open an issue.
+
+## Tests
+To run tests, use the command `npm test` in the terminal.
+
+## Questions
+If you have any questions, feel free to reach out:
+- GitHub Profile: [PotionSela](https://github.com/PotionSela)
+- Email: giselamata27@gmail.com
